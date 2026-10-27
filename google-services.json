@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006991520202",
+    "project_id": "emerald-8436e",
+    "storage_bucket": "emerald-8436e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006991520202:android:d9751685d7ba9411c05f33",
+        "android_client_info": {
+          "package_name": "com.emerald.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpG4PjZ08naniD-e98LfHzYGkNnBj6E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
